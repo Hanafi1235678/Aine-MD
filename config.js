@@ -2,9 +2,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 owner = [
-  ['62895330379186'],
-  ['62895330379186'],
-  ['62895330379186', 'Owner', true]
+  ['6285707627471'],
+  ['6283833584804'],
+  ['6281703100723', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 mods = [] // Want some help?
@@ -16,7 +16,7 @@ APIs = { // API Prefix
   zahir: 'https://zahirr-web.herokuapp.com',
   bcil: 'https://75.119.137.248:21587',
   neoxr: 'https://api.neoxr.eu.org/',
-  zeks: 'https://api.zeks.me',
+  zeks: 'https://api.zeks.me'.
   gimez: 'https://masgimenz.my.id/',
   melcanz: 'https://melcanz.com',
   pencarikode: 'https://pencarikode.xyz',
